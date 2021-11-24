@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Admin\Project3\Project3\Source.cpp(30,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Project3\Project3\Source.cpp(36,29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Project3\Project3\Source.cpp(58,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Project3\Project3\Source.cpp(60,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Project3\Project3\Source.cpp(73,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Project3.vcxproj -> C:\Users\Admin\Project3\Debug\Project3.exe
